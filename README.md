@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hey, I’m Misha!
+### Here’s some quick info to get to know me:
 
-<!--
-**paper-pigeon/paper-pigeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤠 As the saying goes, I wear many hats! Some roles I might fill in my day-to-day are…
+    - Champlain College Online student 🎓
+    - Daycare staff 🧢
+    - Theater staff 🎭
+    - Workshop staff 👷
+    - Freelance illustrator 👩‍🎨
+- 👩‍💻 I’m learning Web Development and Design
+- 👀 I’m interested in front-end…
+    - particularly web accessibility! 💪
+- ✨ **Fun fact:** my first coding project was a hilariously bad space invaders rip off that I put together in game maker studio when I was in middle school, complete with a png of my cat’s head as the player character.
