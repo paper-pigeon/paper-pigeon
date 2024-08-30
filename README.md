@@ -11,3 +11,4 @@
 - 👀 I’m interested in front-end…
     - particularly web accessibility! 💪
 - ✨ **Fun fact:** my first coding project was a hilariously bad space invaders rip off that I put together in game maker studio when I was in middle school, complete with a png of my cat’s head as the player character.
+---
